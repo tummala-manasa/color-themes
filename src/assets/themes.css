@@ -237,3 +237,11 @@ Pull Requests will require passing at least WCAG AA requirements to be accepted
   --link: #ff7b00;
   --text: #ffee00;
 }
+
+.suttle-pink {
+  --primary: #603a42c9;
+  --secondary: #c3bcc4;
+  --accent: #603a42c9;
+  --link: #00b0ffe8;
+  --text: #de1a89db;
+}

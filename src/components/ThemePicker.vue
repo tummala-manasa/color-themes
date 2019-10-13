@@ -54,6 +54,7 @@
       <Theme theme-name="october-orange" display-name="October orange" contributor="CNname" />
       <Theme theme-name="red-theme" display-name="Red Theme" contributor="iamshadmirza" />
       <Theme theme-name="black-yellow" display-name="Black yellow" contributor="pipitorminator"/>
+      <Theme theme-name="suttle-pink" display-name="Suttle Pink" contributor="tummala-manasa"/>
     </div>
   </div>
 </template>
